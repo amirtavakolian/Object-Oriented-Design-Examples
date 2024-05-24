@@ -1,0 +1,85 @@
+
+ye systeme ticketing:
+
+vaghti karbar be moshkeli mikhore,
+mitone ticket bezane be poshtibani va afrade 
+motekhases be un hoze baiad pasokh bedan.
+
+Ex:
+dar hale upload E video be khata mikhore karbar :D 
+dar zamane vorod be class moshkeli mikhore karbar :P
+
+-------------------------
+
+ticket mitone matni bashe, voice bashe.
+
+karbar mitone aks upload kone (attach file)
+
+ticket mitone amade beshe vali dar tarikh va zamane 
+digari ersal beshe.
+
+karbar mitone taeen kone ke un ticket vase kodom poshtiban
+ersal beshe ==> fani, mali, forosh, marketing ya...
+
+har ticket ye olaviat dare. 
+
+karbar ticket mizane, poshtiban, ticket ro baz mikone va 
+mikhone va pasokh mide. karbar 2 bare ticket ro baz mikone 
+va age pasokhi dasht mifreste va agaram na, ticket ro mibande. 
+
+har ticket, 2 noea state dare 
+
+1) is_open
+2) status ==> jadid, dar hale baresi, pasokh dade shode, dar entezare pasokh E karbar, baste shode va...
+
+
+vaghti ticket zade shod, notification mire be afradi ke to poshtibani E site hastand 
+ke beran ticket ro bekhonan 
+
+
+bad az inke sms raft age 1 saat gozasht 
+va ticket khonde nashod, be modir sms bere. 
+
+vaghti ham ke j dade shod, be karbar sms 
+bere ke pasokh dade shod. 
+
+
+moshkel ke hal shod, ticket ro betone
+bebande va be pasokhgoii emtiaz bede 
+
+
+age paiam be bakhshe eshtebahi ersal
+shod, poshtiban betone befrestash be 
+bakhshe marbote 
+==>
+age poshtiban natones paiam ro j bede 
+(danesh nadasht) betone erja bede soal ro 
+
+chetor? 
+ye dokme erja vase poshtiban bezar, 
+ye list az baghie poshtiban ha neshon mide,
+yeki ro entekhab kon ta erja dade beshe 
+-->
+code E un poshtibani 
+ke paiam ro baz karde bod ro taghir mide. 
+-->
+ye KARI ke mitonam bokonam ine ke 
+be soal konanade paiam bedam ke soal E 
+shoma erja shod be felani  --> che karie akhe :)) 
+
+
+mitoni ye bakhshe soalat E motedavel 
+dashte bashi ke matn E soalat az ghabl 
+amade bashe ke karbar entekhab kone 
+
+
+karmandi ke ziad paiam dade ro behesh 
+ticket nafrestin 
+-->
+mitoni time bendazi vasash 
+
+
+emtiaz bedim be karmand haii ke ziad 
+tik E mosbat gereftan :D 
+
+

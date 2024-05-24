@@ -1,0 +1,99 @@
+
+systeme hoghogh E karmandan E ye sherkate narm afzari
+
+------------------------------
+
+ye sherkate narm afzari ke ye seri karmand dare
+
+narm afzare ma baiad hoghogh E in karmandan ro hesab kone 
+
+inke cheghadr hoghogh be karmandan baiad bedim 
+
+-------------------------------
+
+3 daste karmand dare in sherkat:
+
+modiran E fani ==> hoghoghe paye ==> 15 toman 
+barname nevisian ==> hoghoghe paye ==> 11 toman 
+tester ha  ==> hoghoghe paye ==> 8 toman 
+
+gharare be ina hoghogh bedim
+
+----------------------------------
+
+ye seri etelaat az har 3 noea karmandan baiad gerefte beshe 
+
+esm famil, sen, mobile, hoghoghe paye, tedade farzandan
+vaziate تاهل, sale estekhdam 
+
+------------------------------------
+
+nahve mohasebeie hoghogh:
+
+hoghoghe paye + padash + mablaghe ezafe kar + haghe farzand
++ hagh E تاهل + bime + maliat + jarime 
+
+------------------------------------
+
+# ghavanin:
+
+* padash ha:
+
+	padash: modiran E fani be ezaie har barname nevise 
+	teameshon 20 hezar toman padash migire 
+
+	yani age ye modire fani, 8 ta barname nevis to 
+	teamesh bashe, 8 ta 20 toman migire 
+
+	barname nevisa be ezaie har khat codeshon 1000 toman 
+	padash migiran (be joz hoghoghi ke migiran) 
+
+	tester ha be ezaie har bug ke peida konand 50 hezar 
+	toman padash migiran.
+
+------------------------------------
+
+* jarime ha:
+	
+	barname nevis ha be ezaie har bug dar module,
+	50 hezar toman jarime mishan.
+		
+------------------------------------
+
+haghe تاهل:
+
+check kon age متاهل hastesh, 200 hezar toman ezafe kon :D 
+
+------------------------------------
+
+haghe farzand:
+
+be ezaie har farzand 60 toman ta saghfe 3 farzand 
+
+1 bache = 60
+2 ta = 120 
+3 ta = 180
+3 be bala hamon 180	
+
+------------------------------------
+
+mablaghe har saat ezafe kar ta saghfe 40 saat:
+( har cheghadr ke vaise ezafe kar, nahaiatan 40 saatesh mohasebe mishe ) 
+
+modirane fani: be ezaie har saat, 0.03 hoghoe paye
+
+tester ha; be ezaie har saat, 0.02 hoghoghe paye 
+
+barname nevisa: be ezaie har saat, 0.01 
+
+------------------------------------
+
+bime: check kon age mojarad bod faghat 30 toman, dar gheire in sorat
+tedade farzandan + 1(hamsar) * 30 hezar toman 
+
+-------------------------------------
+
+tamame in mavared ke hesab shod hala
+==>
+maliat: 10% hoghoghe nahaii azash kam mishe 
+
